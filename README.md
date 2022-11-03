@@ -7,4 +7,4 @@ A simple application for employee accounting.
 -   `npm install`
 -   `npm run start`
 
-Open in browser [`https://myou5uf.github.io/employees/`]
+Open in browser [https://myou5uf.github.io/employees/](https://myou5uf.github.io/employees/)
